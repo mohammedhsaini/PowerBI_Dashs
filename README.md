@@ -8,7 +8,7 @@ Welcome to the project repository! This repository contains various projects dem
 
 This project showcases a comprehensive sales dashboard created using Power BI. The dashboard provides insights into sales performance, including key metrics such as total sales, sales by region, top-selling products, and sales trends over time. The interactive visualizations help in making data-driven decisions to optimize sales strategies.
 
-![Sales Dashboard](https://github.com/username/repository/blob/main/images/sales_dashboard.png)
+![Sales Dashboard](https://github.com/mohammedhsaini/PowerBI_Dashs/blob/main/financials%20dash.pbix)
 
 ### 2. Financial Dataset Analysis with Power BI
 
