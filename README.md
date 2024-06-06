@@ -20,11 +20,7 @@ In this project, we analyze a financial dataset using Power BI to uncover import
 
 To get started with these projects, you can download the Power BI files from this repository and open them in Power BI Desktop. Follow the instructions in each project's folder for more details on how to use the dashboards and analyze the data.
 
-## Contributing
 
-We welcome contributions to improve these projects. If you have any suggestions or improvements, please feel free to submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
